@@ -1,0 +1,61 @@
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Application\bin\Debug\netstandard2.0\TutorApp.Application.deps.json
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Application\bin\Debug\netstandard2.0\TutorApp.Application.dll
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Application\bin\Debug\netstandard2.0\TutorApp.Application.pdb
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Application\bin\Debug\netstandard2.0\TutorApp.Core.dll
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Application\bin\Debug\netstandard2.0\TutorApp.Core.pdb
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.AssemblyInfo.cs
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.csproj.CopyComplete
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.dll
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.pdb
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.pdb
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Application.deps.json
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Application.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Application.pdb
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Core.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Core.pdb
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.AssemblyInfo.cs
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.csproj.CopyComplete
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.csprojAssemblyReference.cache
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.AssemblyInfoInputs.cache
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.AssemblyInfo.cs
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.csproj.CoreCompileInputs.cache
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.dll
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.pdb
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Application.deps.json
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Application.dll
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Application.pdb
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Core.dll
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Core.pdb
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.csproj.CopyComplete
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.csproj.AssemblyReference.cache
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.AssemblyInfoInputs.cache
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.AssemblyInfo.cs
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.csproj.CoreCompileInputs.cache
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.pdb
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Application.deps.json
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Application.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Application.pdb
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Core.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Core.pdb
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.csproj.CopyComplete
+D:\JOB\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Application.deps.json
+D:\JOB\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Application.dll
+D:\JOB\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Application.pdb
+D:\JOB\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Core.dll
+D:\JOB\TutorApp\TutorApp.Application\bin\Debug\netstandard2.0\TutorApp.Core.pdb
+D:\JOB\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.csproj.AssemblyReference.cache
+D:\JOB\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOB\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.AssemblyInfoInputs.cache
+D:\JOB\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.AssemblyInfo.cs
+D:\JOB\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.csproj.CoreCompileInputs.cache
+D:\JOB\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.csproj.CopyComplete
+D:\JOB\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.dll
+D:\JOB\TutorApp\TutorApp.Application\obj\Debug\netstandard2.0\TutorApp.Application.pdb

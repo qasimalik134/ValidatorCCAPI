@@ -1,0 +1,260 @@
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Api.exe
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Api.deps.json
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Api.runtimeconfig.json
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Api.runtimeconfig.dev.json
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Api.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Api.pdb
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\AutoMapper.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Dapper.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\FluentValidation.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\MediatR.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\NJsonSchema.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\NSwag.Annotations.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\NSwag.Core.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\NSwag.Generation.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Application.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Core.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Infrastructure.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Application.pdb
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Infrastructure.pdb
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Core.pdb
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.AssemblyInfo.cs
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\staticwebassets\TutorApp.Api.StaticWebAssets.Manifest.cache
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\staticwebassets\TutorApp.Api.StaticWebAssets.xml
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\scopedcss\bundle\TutorApp.Api.styles.css
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.RazorTargetAssemblyInfo.cache
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.csproj.CopyComplete
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.pdb
+C:\Users\acer\Downloads\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.genruntimeconfig.cache
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\appsettings.json
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Api.exe
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Api.deps.json
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Api.runtimeconfig.json
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Api.runtimeconfig.dev.json
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Api.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Api.pdb
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\AutoMapper.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Dapper.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\FluentValidation.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\MediatR.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Namotion.Reflection.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\NJsonSchema.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\NSwag.Annotations.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\NSwag.AspNetCore.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\NSwag.Core.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\NSwag.Generation.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Application.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Core.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Infrastructure.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Application.pdb
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Infrastructure.pdb
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\bin\Release\netcoreapp3.1\TutorApp.Core.pdb
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.csproj.AssemblyReference.cache
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.AssemblyInfoInputs.cache
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.AssemblyInfo.cs
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.csproj.CoreCompileInputs.cache
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\staticwebassets\TutorApp.Api.StaticWebAssets.Manifest.cache
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\staticwebassets\TutorApp.Api.StaticWebAssets.xml
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\scopedcss\bundle\TutorApp.Api.styles.css
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.RazorTargetAssemblyInfo.cache
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.csproj.CopyComplete
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.pdb
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Api\obj\Release\netcoreapp3.1\TutorApp.Api.genruntimeconfig.cache

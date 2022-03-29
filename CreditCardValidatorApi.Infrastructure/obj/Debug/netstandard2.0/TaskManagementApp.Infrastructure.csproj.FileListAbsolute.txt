@@ -1,0 +1,14 @@
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TaskManagementApp.Infrastructure.deps.json
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TaskManagementApp.Infrastructure.dll
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TaskManagementApp.Infrastructure.pdb
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TaskManagementApp.Application.dll
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TaskManagementApp.Core.dll
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TaskManagementApp.Application.pdb
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TaskManagementApp.Core.pdb
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TaskManagementApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TaskManagementApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TaskManagementApp.Infrastructure.AssemblyInfo.cs
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TaskManagementApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TaskManagementApp.Infrastructure.csproj.CopyComplete
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TaskManagementApp.Infrastructure.dll
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TaskManagementApp.Infrastructure.pdb

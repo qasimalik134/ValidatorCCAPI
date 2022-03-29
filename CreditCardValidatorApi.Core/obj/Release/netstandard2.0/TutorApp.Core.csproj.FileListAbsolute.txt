@@ -1,0 +1,18 @@
+C:\Users\acer\Downloads\TutorApp\TutorApp.Core\bin\Release\netstandard2.0\TutorApp.Core.deps.json
+C:\Users\acer\Downloads\TutorApp\TutorApp.Core\bin\Release\netstandard2.0\TutorApp.Core.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Core\bin\Release\netstandard2.0\TutorApp.Core.pdb
+C:\Users\acer\Downloads\TutorApp\TutorApp.Core\obj\Release\netstandard2.0\TutorApp.Core.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\TutorApp\TutorApp.Core\obj\Release\netstandard2.0\TutorApp.Core.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\TutorApp\TutorApp.Core\obj\Release\netstandard2.0\TutorApp.Core.AssemblyInfo.cs
+C:\Users\acer\Downloads\TutorApp\TutorApp.Core\obj\Release\netstandard2.0\TutorApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\TutorApp\TutorApp.Core\obj\Release\netstandard2.0\TutorApp.Core.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Core\obj\Release\netstandard2.0\TutorApp.Core.pdb
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Core\bin\Release\netstandard2.0\TutorApp.Core.deps.json
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Core\bin\Release\netstandard2.0\TutorApp.Core.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Core\bin\Release\netstandard2.0\TutorApp.Core.pdb
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Core\obj\Release\netstandard2.0\TutorApp.Core.csproj.AssemblyReference.cache
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Core\obj\Release\netstandard2.0\TutorApp.Core.AssemblyInfoInputs.cache
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Core\obj\Release\netstandard2.0\TutorApp.Core.AssemblyInfo.cs
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Core\obj\Release\netstandard2.0\TutorApp.Core.csproj.CoreCompileInputs.cache
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Core\obj\Release\netstandard2.0\TutorApp.Core.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Core\obj\Release\netstandard2.0\TutorApp.Core.pdb

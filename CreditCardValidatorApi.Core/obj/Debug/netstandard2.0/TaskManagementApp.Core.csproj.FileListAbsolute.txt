@@ -1,0 +1,9 @@
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Core\bin\Debug\netstandard2.0\TaskManagementApp.Core.deps.json
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Core\bin\Debug\netstandard2.0\TaskManagementApp.Core.dll
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Core\bin\Debug\netstandard2.0\TaskManagementApp.Core.pdb
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Core\obj\Debug\netstandard2.0\TaskManagementApp.Core.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Core\obj\Debug\netstandard2.0\TaskManagementApp.Core.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Core\obj\Debug\netstandard2.0\TaskManagementApp.Core.AssemblyInfo.cs
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Core\obj\Debug\netstandard2.0\TaskManagementApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Core\obj\Debug\netstandard2.0\TaskManagementApp.Core.dll
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Core\obj\Debug\netstandard2.0\TaskManagementApp.Core.pdb

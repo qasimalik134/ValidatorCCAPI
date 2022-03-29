@@ -1,0 +1,71 @@
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Infrastructure.deps.json
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Infrastructure.dll
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Infrastructure.pdb
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Application.dll
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Core.dll
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Application.pdb
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Core.pdb
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.AssemblyInfo.cs
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.csproj.CopyComplete
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.dll
+C:\Users\acer\Downloads\TaskManagementApp-master\TaskManagementApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.pdb
+C:\Users\acer\Downloads\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.pdb
+C:\Users\acer\Downloads\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Infrastructure.deps.json
+C:\Users\acer\Downloads\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Infrastructure.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Infrastructure.pdb
+C:\Users\acer\Downloads\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Application.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Core.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Application.pdb
+C:\Users\acer\Downloads\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Core.pdb
+C:\Users\acer\Downloads\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.AssemblyInfo.cs
+C:\Users\acer\Downloads\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.csproj.CopyComplete
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.csprojAssemblyReference.cache
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.AssemblyInfoInputs.cache
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.AssemblyInfo.cs
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.dll
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.pdb
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Infrastructure.deps.json
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Infrastructure.dll
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Infrastructure.pdb
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Application.dll
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Core.dll
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Application.pdb
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Core.pdb
+E:\Tutor App 2\zip file\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.csproj.CopyComplete
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Infrastructure.deps.json
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Infrastructure.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Infrastructure.pdb
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Application.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Core.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Application.pdb
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Core.pdb
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.csproj.AssemblyReference.cache
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.AssemblyInfoInputs.cache
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.AssemblyInfo.cs
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.csproj.CopyComplete
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.pdb
+D:\JOB\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Infrastructure.deps.json
+D:\JOB\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Infrastructure.dll
+D:\JOB\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Infrastructure.pdb
+D:\JOB\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Application.dll
+D:\JOB\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Core.dll
+D:\JOB\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Application.pdb
+D:\JOB\TutorApp\TutorApp.Infrastructure\bin\Debug\netstandard2.0\TutorApp.Core.pdb
+D:\JOB\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.csproj.AssemblyReference.cache
+D:\JOB\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOB\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.AssemblyInfoInputs.cache
+D:\JOB\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.AssemblyInfo.cs
+D:\JOB\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\JOB\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.csproj.CopyComplete
+D:\JOB\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.dll
+D:\JOB\TutorApp\TutorApp.Infrastructure\obj\Debug\netstandard2.0\TutorApp.Infrastructure.pdb

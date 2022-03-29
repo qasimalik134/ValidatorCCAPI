@@ -1,0 +1,24 @@
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\bin\Release\netstandard2.0\TutorApp.Application.deps.json
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\bin\Release\netstandard2.0\TutorApp.Application.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\bin\Release\netstandard2.0\TutorApp.Application.pdb
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\bin\Release\netstandard2.0\TutorApp.Core.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\bin\Release\netstandard2.0\TutorApp.Core.pdb
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\obj\Release\netstandard2.0\TutorApp.Application.csproj.AssemblyReference.cache
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\obj\Release\netstandard2.0\TutorApp.Application.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\obj\Release\netstandard2.0\TutorApp.Application.AssemblyInfo.cs
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\obj\Release\netstandard2.0\TutorApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\obj\Release\netstandard2.0\TutorApp.Application.csproj.CopyComplete
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\obj\Release\netstandard2.0\TutorApp.Application.dll
+C:\Users\acer\Downloads\TutorApp\TutorApp.Application\obj\Release\netstandard2.0\TutorApp.Application.pdb
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\bin\Release\netstandard2.0\TutorApp.Application.deps.json
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\bin\Release\netstandard2.0\TutorApp.Application.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\bin\Release\netstandard2.0\TutorApp.Application.pdb
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\bin\Release\netstandard2.0\TutorApp.Core.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\bin\Release\netstandard2.0\TutorApp.Core.pdb
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\obj\Release\netstandard2.0\TutorApp.Application.csproj.AssemblyReference.cache
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\obj\Release\netstandard2.0\TutorApp.Application.AssemblyInfoInputs.cache
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\obj\Release\netstandard2.0\TutorApp.Application.AssemblyInfo.cs
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\obj\Release\netstandard2.0\TutorApp.Application.csproj.CoreCompileInputs.cache
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\obj\Release\netstandard2.0\TutorApp.Application.csproj.CopyComplete
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\obj\Release\netstandard2.0\TutorApp.Application.dll
+D:\Project\Freelancing\ZKM Services\Project\Tutor Application\Project\v1\TutorApp\TutorApp.Application\obj\Release\netstandard2.0\TutorApp.Application.pdb
