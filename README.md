@@ -1,5 +1,5 @@
 # Credit Card Validation Api
-This repository contains the code for verification of credit card data through API build using ASP .NET Core 3.1
+This repository contains the code for validation of credit card data through API build using ASP .NET Core 3.1
 Credit Card Validation API build on .NET CORE 3.1 with following considerations.
 
   * ASP.NET CORE 3.1
