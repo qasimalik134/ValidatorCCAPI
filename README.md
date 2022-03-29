@@ -9,7 +9,11 @@ Credit Card Validation API build on .NET CORE 3.1 with following considerations.
   * Swagger
   * XUNIT
   * Dependecy Injection
-  
+## Clean Architecture ##
+![image](https://user-images.githubusercontent.com/30867046/160513236-4cfca4c6-b37b-4cf1-981a-3a7282149af5.png)
+## Design Pattern ##
+![image](https://user-images.githubusercontent.com/30867046/160513328-6965e68b-9678-470c-b562-65d4ad1b0a1c.png)
+
 ## Project Structure ##
   * CreditCardValidatorApi.Api
      * Contains Main Validate Function where api controller action coded.
